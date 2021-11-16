@@ -1,4 +1,4 @@
-flask==2.0.2
+flask
 time
 random
-requests==2.6.0
+requests
